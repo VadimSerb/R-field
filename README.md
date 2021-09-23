@@ -113,10 +113,12 @@
 
 Теперь необходимо разобраться с дробной частью и знаком. Возможны 4 сценария: 
 - Указание - далее целая часть первого числа - это ```first```, целая часть второго числа - это ```second```;  дробная часть первого числа - это ```firstfraction```, второго - ```secondfraction```.
-- I. ```first``` >= ```second``` и ```firstfraction``` >= ```secondfraction```
-- II. ```first``` >= ```second``` и ```firstfraction``` >= ```secondfraction```
+- I.    ```first``` >= ```second``` и ```firstfraction``` >= ```secondfraction```
+- II.   ```first``` < ```second``` и ```firstfraction``` < ```secondfraction```
+- III.  ```first``` >= ```second``` и ```firstfraction``` < ```secondfraction```
+- IV.   ```first``` < ```second``` и ```firstfraction``` >= ```secondfraction```
 
-
+В первом и четвертом случаях всё очевидно - вызываем функцию ```SubstractionOperation``` для ```firstfraction``` и ```secondfraction``` и выводим ответ на экран (в 4 случае добавим в начале вывода '-').
 
 
 
