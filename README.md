@@ -107,7 +107,9 @@
 Если в начале была выбрана операция "вычитание", то заместо ```AdditionOperation``` будет вызвана функция ```void SubstractionOperation(char* a, char* b, char* c)```.
 - Полагаем, что оба числа не являются отрицательными, потому что иначе будет просто вызвана функция сложения и выведен ответ со знаком '-'.
 
-```SubstractionOperation``` получает на вход три массива: first - целая часть первого числа, second - целая часть второго числа, и result, куда будет записал результат математического вычитания одного числа из другого. Далее ```SubstractionOperation``` вызывает функцию ```char ComparisonOperation(char* a, char* b)```, которая реализует беззнаковое сравнение first и second, возвращая символ 'T', если first >= second и 'F' в противном случае. ```SubstractionOperation```, равно как и ```ComparisonOperation```, не учитывает знак числа. Далее вызывается функция ```void SubstractionLargerMinusSmaller(char* a, char* b, char* c)```, где a - наибольшее из first и second чисел, а b - меньшее; c - массив result, куда будет записан ответ.
+```SubstractionOperation``` получает на вход три массива: first - целая часть первого числа, second - целая часть второго числа, и result, куда будет записал результат математического вычитания одного числа из другого. Далее ```SubstractionOperation``` вызывает функцию ```char ComparisonOperation(char* a, char* b)```, которая реализует беззнаковое сравнение first и second, возвращая символ 'T', если first >= second и 'F' в противном случае. ```SubstractionOperation```, равно как и ```ComparisonOperation```, не учитывает знак числа. Далее вызывается функция ```void SubstractionLargerMinusSmaller(char* a, char* b, char* c)```, где a - наибольшее из first и second чисел, а b - меньшее; c - массив result, куда будет записан ответ. 
+
+```SubstractionLargerMinusSmaller``` - реализация алгоритма вычитания в столбик целочисленных чисел, где уменьшаемое больше вычитаемого.
 
 
 
