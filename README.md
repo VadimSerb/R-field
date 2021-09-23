@@ -118,7 +118,7 @@
 - III.  ```first``` >= ```second``` и ```firstfraction``` < ```secondfraction```
 - IV.   ```first``` < ```second``` и ```firstfraction``` >= ```secondfraction```
 
-В первом и четвертом случаях всё очевидно - вызываем функцию ```SubstractionOperation``` для ```firstfraction``` и ```secondfraction``` и выводим ответ на экран (в 4 случае добавим в начале вывода '-').
+В первом и четвертом случаях всё очевидно - вызываем функцию ```SubstractionOperation``` для ```firstfraction``` и ```secondfraction``` и выводим ответ на экран (в 4 случае добавим в начале вывода символ '-').
 
 
 
