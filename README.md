@@ -127,6 +127,7 @@
 сводится к итерационной процедуре вычисления: ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/ad1c904e2d2798c0cbac6365db61c4c6e853d582)
 и последовательность приближений стремится к корню уравнения ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/cf85883d74b75fe35ca8d3f2b44802df078e4fa1)
 
+Обоснование: чтобы численно решить уравнение {\displaystyle f(x)=0}
 
 
 ## Тестовые векторы
