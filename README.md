@@ -133,9 +133,12 @@
 
 Тогда ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/3194091b5b420574b450346ebca40f1f15f78a0f) 
 
-В предположении, что точка приближения «достаточно близка» к корню ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/4f5c5435030c952a58a756e691ea64f60c1bd240) и что заданная функция непрерывна ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/98bc7283c5bd3e7713dacf04a3984f93646972de), окончательная формула для ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/43941ef40b4eb751a8daea118d0012ea998f5610):  ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/e9acab9df7351ad979a7178cd0bfc209b7a33996).
+В предположении, что точка приближения «достаточно близка» к корню ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/4f5c5435030c952a58a756e691ea64f60c1bd240) и что заданная функция непрерывна ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/98bc7283c5bd3e7713dacf04a3984f93646972de), окончательная формула для ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/43941ef40b4eb751a8daea118d0012ea998f5610):  
+
+![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/e9acab9df7351ad979a7178cd0bfc209b7a33996).
 
 С учётом этого функция ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/4c4046f1f2de7df04bde418ba2bc4d3898ac2385) определяется как:
+
 ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/11a9b58e68d224bb8e23930cae986fec1ad1fbd7) 
 
 
