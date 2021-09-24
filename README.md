@@ -129,7 +129,9 @@
 
 Обоснование: чтобы численно решить уравнение ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/cf85883d74b75fe35ca8d3f2b44802df078e4fa1) методом простой итерации, его необходимо привести к эквивалентному уравнению: ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/77e3afd25cdf5479ad11868e5da0fcc2ea4ddeb3) , где ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/33ee699558d09cf9d653f6351f9fda0b2f4aaa3e) - это сжимающее отображение.
 
-Для наилучшей сходимости метода в точке очередного приближения ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/e5be23ee5d433f8b576e63bcb47518128ee0b6bb) должно выполняться условие ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/9b52c7204059afbe59b1793ff6a69db9dfbd9e1b), и решение данного уравнения ищут в виде
+Для наилучшей сходимости метода в точке очередного приближения ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/e5be23ee5d433f8b576e63bcb47518128ee0b6bb) должно выполняться условие ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/9b52c7204059afbe59b1793ff6a69db9dfbd9e1b), и решение данного уравнения ищут в виде ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/f6842a06e315c7a2d2ab1c88ad26c8b5ac52cee2). 
+
+Тогда ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/3194091b5b420574b450346ebca40f1f15f78a0f) 
 
 
 ## Тестовые векторы
