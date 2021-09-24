@@ -138,6 +138,8 @@
 С учётом этого функция ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/4c4046f1f2de7df04bde418ba2bc4d3898ac2385) определяется как:
 ![Альтернативный текст](https://wikimedia.org/api/rest_v1/media/math/render/svg/11a9b58e68d224bb8e23930cae986fec1ad1fbd7) 
 
+
+
 ## Тестовые векторы
 
 ### Тестирование операции 'деление':
